@@ -28,7 +28,7 @@ The dashboards included here are **structured learning projects**. Each one focu
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 – Single-Page Focus)
 
-[**Data Jobs Dashboard 2.0**](/images/Dashboard.png)
+![Data Jobs Dashboard 2.0](./images/Dashboard.png)
 
 
 ---
